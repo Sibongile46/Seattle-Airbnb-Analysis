@@ -26,4 +26,4 @@ This project analyzes Airbnb listings in Seattle, WA, to uncover trends and insi
 - **Trends in Reviews**: A steady increase in reviews over time indicates growing Airbnb activity in Seattle.
 
 ## Acknowledgments
-Data used in this project is sourced from [Inside Airbnb](https://insideairbnb.com/seattle/).
+Data used in this project is sourced from [Inside Airbnb]((https://www.kaggle.com/datasets/airbnb/seattle/data ).
